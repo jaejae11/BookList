@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookList</string>
+    <string name="borrow_book">Borrow Book</string>
+    <string name="confirm">Confirm</string>
+    <string name="choose_date">Choose Your Dates !</string>
+    <string name="text_selected_dates">Selected Dates:</string>
+
+</resources>
